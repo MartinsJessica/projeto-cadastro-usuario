@@ -83,14 +83,3 @@ app.get('/', (_, response) => response.send('API Funcionando'))
 const PORT = 3000
 
 app.listen(PORT, () => console.log(`Rodando em http://localhost:${PORT}`))
-
-
-
-
-//1)Tipo de rota / método HTTP
-//2)Endereço
-
-//banco de dados: Users
-//usuario: jessica
-//senha:rexNIn5fltdQ77z9
-//ipadress:179.125.213.13
